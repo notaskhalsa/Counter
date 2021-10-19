@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin-left: 45%;
+    margin-top: 17%;
+    text-transform: capitalize;
+}
+
+button{
+    font-family: monospace;
+    text-transform:capitalize;
+    font-size: 2rem;
+    border-radius: 20px;
+    border: 3px solid #222;
+}
+
+.heading{
+    font-size: 5rem;
+    font-weight: 300;
+    font-family: fantasy;   
+}
+
+#value{
+    margin-left: 13%;
+    font-size: 5rem;
+}
+
+.button-container{
+    margin-left: -180px;
+    margin-top: 20px;
+}
+
+.btn{
+    padding: 5px 10px;
+    margin: 0 20px;
+}
+
+.btn:hover{
+    background-color: #222;
+    color: white;
+}
